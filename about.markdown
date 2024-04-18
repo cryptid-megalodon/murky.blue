@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, my name is Blake Wolf.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a software engineer and machine learning researcher. I previously worked at Google on Tensorflow, Youtube Music and Technical Infrastructure teams. Outside of tech, I co-founded a solar farm development company to develop sustainable energy projects. We are now developing our first solar array in California.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+For fun I enjoy bike riding, board games, anime, movies, stand-up comedy, reading sci-fi and rock climbing.
