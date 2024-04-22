@@ -74,7 +74,7 @@ theme_mode: dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "https://github.com/cryptid-megalodon/cryptid-megalodon.github.io/blob/main/images/cropped_wedding_profile.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
