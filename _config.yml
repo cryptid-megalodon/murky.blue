@@ -28,8 +28,8 @@ url: "https://murky.blue"
 github:
   username: cryptid-megalodon
 
-twitter:
-  username: twitter_username # change to your twitter username
+threads:
+  username: blakewolf.awooo # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: megalodon@murky.blue
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - https://www.threads.net/@blakewolf.awooo # change to your twitter homepage
     - https://github.com/cryptid-megalodon # change to your github homepage
     - https://www.linkedin.com/in/blake-wolf-192382222
 
